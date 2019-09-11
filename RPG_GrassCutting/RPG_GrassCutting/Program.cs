@@ -123,7 +123,7 @@ namespace RPG_GrassCutting
             bool gameOn = true;
             Inventory[] inv = new Inventory[9];
             //Inventory slotFill = new Inventory(1, 1, 1, "N/A");
-            Inventory[] inventoryArray = new Inventory[] { };
+            //Inventory[] inventoryArray = new Inventory[] { };
             for (int i = 0; i < 9; i++)
             {
                 inv[i] = new Inventory(0, 0, 0, "Blank");
@@ -186,10 +186,10 @@ namespace RPG_GrassCutting
                                 Console.ForegroundColor = ConsoleColor.Green;
                                 Console.WriteLine($"Day : {currentDay}\r\nRupees : {pl.rupees}\r\nHealth : {pl.health}\r\nHunger : {pl.hunger}\r\n---------------\r\n");
                                 Console.ForegroundColor = ConsoleColor.Gray;
-                                Console.WriteLine("Which item would you like to select between 1-9? Or type [b] to go back >\r\n");
+                                Console.WriteLine("Which item would you like to select between 0-8? Or type [b] to go back >\r\n");
                                 for (int i = 0; i < 9; i++)
                                 {
-                                    Console.WriteLine($"\r\nItem Slot {i+1}");
+                                    Console.WriteLine($"\r\nItem Slot {i}");
                                     Console.WriteLine($"Item : {inv[i].foodString}\r\nHealth Gain : {inv[i].healthGain}\r\nHunger Gain : {inv[i].hungerGain}");
                                 }
                                 useAsk = Console.ReadLine();
@@ -197,11 +197,20 @@ namespace RPG_GrassCutting
                                 if (useAsk == "b" || useAsk == "b")
                                 {
                                     goBack = false;
+                                    goHome = false;
                                     break;
                                 }
                                 Int32.TryParse(useAsk, out use);
-
                                 
+
+                                for (int i = 0; i < 8; i++)
+                                {
+                                    inv[use] = inv[use + 1];
+                                    use++;
+                                }
+                                slotChecker--;
+                                goHome = false;
+                                break;
                                 //delete inv[use]
 
                                 //
@@ -217,9 +226,9 @@ namespace RPG_GrassCutting
                                 //Console.WriteLine("Incorrect input, press any key to continue >");
                                 //Console.ReadKey();
                                 //break;
-                                }
+                                
                             }
-                            break;
+                            continue;
 
                         case "g":
 
