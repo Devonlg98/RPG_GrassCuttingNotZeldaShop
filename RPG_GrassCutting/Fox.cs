@@ -13,6 +13,7 @@ namespace RPG_GrassCutting
         string foxName;
         public Fox(int v1, int v2, string v3)
         {
+            PType = PetType.Fox;
             this.foxUpgrade = v1;
             this.foxHealth = v2;
             this.foxName = v3;

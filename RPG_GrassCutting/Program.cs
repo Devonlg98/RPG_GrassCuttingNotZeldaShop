@@ -853,6 +853,7 @@ namespace RPG_GrassCutting
                 {
                 Console.WriteLine($"You work and sleep for {goalDay} days\r\nWith your {jobUpgradeArray[currentWeapon].jobUpgradeName} you mananged to get {foundRupees} Rupees\r\n\r\nPress Any Key To Continue >");
                 }
+                (petArray[petRandomizer]).HeadPat();
                 multiplierRupee = 0;
                 foundRupees = 0;
                 goHome = false;

@@ -17,20 +17,5 @@ namespace RPG_GrassCutting
         {
             Console.WriteLine($"You pet your {PType}");
         }
-
-
-        //public class Fox : Pet
-        //{
-        //    public Fox(int v1, int v2, string v3)
-        //    {
-        //        this.foxUpgrade = v1;
-        //        this.foxHealth = v2;
-        //        this.foxName = v3;
-        //    }
-        //    public void Pet()
-        //    {
-        //        Console.WriteLine($"You pet {foxName}");
-        //    }
-        //}
     }
 }
