@@ -64,3 +64,25 @@ C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop\RPG_GrassCu
 C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.csproj.CoreCompileInputs.cache
 C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.exe
 C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.pdb
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\currentDay.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\currentWeapon.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv1.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv2.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv3.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv4.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv5.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv6.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv7.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv8.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\inv9.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\pl.health.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\pl.hunger.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\pl.rupees.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\TextFiles\slotChecker.txt
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\RPG_GrassCutting.exe.config
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\RPG_GrassCutting.exe
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\bin\Debug\RPG_GrassCutting.pdb
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.csprojAssemblyReference.cache
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.csproj.CoreCompileInputs.cache
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.exe
+C:\Users\Diaot\Desktop\ClassWork\AAAAAh\RPG_GrassCuttingNotZeldaShop - Copy\RPG_GrassCutting\obj\Debug\RPG_GrassCutting.pdb
